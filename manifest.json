@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.vrruiz.pttu",
+    "description": "Space news from Portal to the Universe",
+    "framework": "ubuntu-sdk-14.10",
+    "architecture": "armhf",
+    "title": "Portal to the Universe",
+    "hooks": {
+        "pttu": {
+            "scope": "pttu",
+            "apparmor": "scope-security.json"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Víctor R. Ruiz <vrruiz@canonical.com>"
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "label": "Featured News",
+        "id": "http://www.portaltotheuniverse.org/rss/news/featured/"
+    },
+    {
+        "label": "Recent News",
+        "id": "http://www.portaltotheuniverse.org/rss/news/recent/"
+    },
+    {
+        "label": "Featured News & Blog Posts",
+        "id": "http://www.portaltotheuniverse.org/rss/blogs/posts/featured/"
+    },
+    {
+        "label": "All",
+        "id": "http://www.portaltotheuniverse.org/rss/all/"
+    }
+]
