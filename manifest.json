@@ -1,5 +1,5 @@
 {
-    "name": "com.ubuntu.developer.vrruiz.pttu",
+    "name": "pttu.vrruiz",
     "description": "Space news from Portal to the Universe",
     "framework": "ubuntu-sdk-14.10",
     "architecture": "armhf",
